@@ -15,7 +15,10 @@ The model was trained using a real-world dataset collected from PakWheels, Pakis
 •	Model Training                                                                                                  
 •	Model Evaluation                                                                                                  
 •	Model Serialization                                                                                              
-•	Interactive Web Application Deployment using Gradio                                                                
+•	Interactive Web Application Deployment using Gradio   
+### Make a function for NLP
+Natural Language Processing (NLP) was applied to the Company & Model and Features text columns using a custom preprocessing function to clean and normalize textual data.                                        
+The processed text was transformed into machine-learning-ready features, enabling the model to better understand vehicle specifications and improve car price prediction accuracy.
 ## Objectives
 The main objectives of this project are:                                                                             
 •	Predict the price of a used car accurately.                                                                      
