@@ -194,70 +194,70 @@ python appusedcarpricemodel.py
 Open the generated local URL in your browser.                                                                        
 Enter the required car information and click  Predict  to estimate the car price.
 ## Machine Learning Workflow
-Dataset                                                                                                          
-   │                                                                                                                 
-   ▼                                                                                                            
-Data Cleaning                                                                                                      
-   │                                                                                                              
-   ▼                                                                                                            
-EDA                                                                                                                  
-   │                                                                                                              
-   ▼                                                                                                                
-Text Processing                                                                                                    
-   │                                                                                                                 
-   ▼                                                                                                              
-Count Vectorization                                                                                                  
-   │                                                                                                                
-   ▼                                                                                                              
-Feature Scaling                                                                                                  
-   │                                                                                                              
-   ▼                                                                                                              
-One Hot Encoding                                                                                                
-   │                                                                                                              
-   ▼                                                                                                              
-Feature Combination                                                                                            
-   │                                                                                                              
-   ▼                                                                                                              
-Model Training                                                                                                  
-   │                                                                                                            
-   ▼                                                                                                            
-Model Evaluation                                                                                                     
-   │                                                                                                              
-   ▼                                                                                                          
-Save Model                                                                                                  
-   │                                                                                                            
-   ▼                                                                                                            
-Gradio Web Application                                                                                            
+Dataset                                                                                                   
+   │                                                                                                      
+   ▼                                                                                                      
+Data Cleaning                                                                                             
+   │                                                                                                       
+   ▼                                                                                                      
+EDA                                                                                                        
+   │                                                                                                       
+   ▼                                                                                                       
+Text Processing                                                                                           
+   │                                                                                                       
+   ▼                                                                                                      
+Count Vectorization                                                                                       
+   │                                                                                                      
+   ▼                                                                                                      
+Feature Scaling                                                                                           
+   │                                                                                                      
+   ▼                                                                                                      
+One Hot Encoding                                                                                
+   │                                                                                                       
+   ▼                                                                                                      
+Feature Combination                                                                                        
+   │                                                                                                       
+   ▼                                                                                                      
+Model Training                                                                                             
+   │                                                                                                       
+   ▼                                                                                                       
+Model Evaluation                                                                                          
+   │                                                                                                      
+   ▼                                                                                                       
+Save Model                                                                                                
+   │                                                                                                      
+   ▼                                                                                                      
+Gradio Web Application                                                                                    
 
 ## Educational Purpose
-This repository was developed as an academic Machine Learning project to demonstrate practical implementation of:
-•	Data Preprocessing
-•	Feature Engineering
-•	Natural Language Processing (NLP)
-•	Regression Models
-•	Model Deployment
-•	Interactive Web Applications
+This repository was developed as an academic Machine Learning project to demonstrate practical implementation of:                                                                                        
+•	Data Preprocessing                                                                                    
+•	Feature Engineering                                                                                    
+•	Natural Language Processing (NLP)                                                                
+•	Regression Models                                                                                    
+•	Model Deployment                                                                                       
+•	Interactive Web Applications                                                                           
 It can serve as a learning resource for students studying Machine Learning and Data Science.
 ## Future Improvements
-Possible future enhancements include:
-o	Hyperparameter Optimization
-o	XGBoost Regressor
-o	LightGBM Regressor
-o	Model Explainability using SHAP
-o	Feature Importance Visualization
-o	Cloud Deployment (Hugging Face Spaces / Render / Railway)
-o	REST API using FastAPI or Flask
-o	Streamlit Dashboard
-o	Automatic Retraining Pipeline
+Possible future enhancements include:                                                                    
+o	Hyperparameter Optimization                                                                            
+o	XGBoost Regressor                                                                                    
+o	LightGBM Regressor                                                                                    
+o	Model Explainability using SHAP                                                                        
+o	Feature Importance Visualization                                                                    
+o	Cloud Deployment (Hugging Face Spaces / Render / Railway)                                              
+o	REST API using FastAPI or Flask                                                                    
+o	Streamlit Dashboard                                                                                
+o	Automatic Retraining Pipeline                                                                    
 ## Author
-Maqsood Ahmad
-Machine Learning | Python | Data Science
-## Acknowledgements
-Special Thanks to my teachers Mr. Zafar Iqbal and Mr. Hisham Sarwar & also
-o	Kaggle
-o	PakWheels
-o	Scikit-Learn
-o	NLTK
-o	Gradio
-o	Python Community
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+Maqsood Ahmad                                                                                            
+Machine Learning | Python | Data Science                                                                
+## Acknowledgements                                    
+Special Thanks to my teachers Mr. Zafar Iqbal and Mr. Hisham Sarwar & also                            
+o	Kaggle                                                                                            
+o	PakWheels                                                                                        
+o	Scikit-Learn                                                                                        
+o	NLTK                                                                                                
+o	Gradio                                                                                            
+o	Python Community                                                                                    
+If you found this project useful, please consider giving it a ⭐ on GitHub.                            
